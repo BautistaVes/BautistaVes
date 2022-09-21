@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BautistaVes</h1>
-<h3 align="center">Creador de CodersHouse y Programador Front-End.</h3>
+<h3 align="center">Creador de CodersHouse, Programador Front-End y Fundador de Malianteo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bautistaves&label=Profile%20views&color=0e75b6&style=flat" alt="bautistaves" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/bautiiii_v" target="blank"><img src="https://img.shields.io/twitter/follow/bautiiii_v?logo=twitter&style=for-the-badge" alt="bautiiii_v" /></a> </p>
 
-- 🔭 I’m currently working on [CodersHouse](https://discord.gg/mPrrUwWhQ9)
+- 🔭 I’m currently working on [MalianteoRP](https://malianteo.store/)
 
 - 🌱 I’m currently learning **react js, py, js**
 
