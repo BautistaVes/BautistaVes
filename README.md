@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/bautiiii_v" target="blank"><img src="https://img.shields.io/twitter/follow/bautiiii_v?logo=twitter&style=for-the-badge" alt="bautiiii_v" /></a> </p>
 
-- 🔭 I’m currently working on [893Clothes](https://www.instagram.com/893clothes/?hl=es)
+- 🔭 I’m currently working on CotizARG
 
 - 🌱 I’m currently learning **react js, py, js**
 
-- 🤝 I’m looking for help with **[https://bautistaves.github.io/ysya](https://bautistaves.github.io/ysya)**
+- 🤝 last project **[AlarmasArgentina](https://alarmasargentina.com.ar)**
 
-- 👨‍💻 All of my projects are available at [https://bautistaves.github.io](https://bautistaves.github.io)
+- 👨‍💻 All of my projects are available at [PortFolio](https://bautistaves.github.io)
 
 - 💬 Ask me about **html, css, lua**
 
