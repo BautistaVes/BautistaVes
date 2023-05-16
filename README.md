@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BautistaVes</h1>
-<h3 align="center">Creador de CodersHouse, Programador Front-End y Fundador de Malianteo</h3>
+<h3 align="center">Creador de CodersHouse, Programador Front-End</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bautistaves&label=Profile%20views&color=0e75b6&style=flat" alt="bautistaves" /> </p>
 
