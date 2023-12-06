@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bautista
 ================================================================================================================================
 
-Jr Full Stack Developer
+Trainee Full Stack Developer
 -----------------------
 
 Estoy aprendiendo programación aproximadamente desde hace 3 años. Muy interesado en el mundo de la tecnología desde temprana edad. Tengo varios proyectos en mente uno de ellos @cotizarg.
