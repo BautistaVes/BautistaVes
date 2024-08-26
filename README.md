@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Trainee Full Stack Developer
 -----------------------
 
-Estoy aprendiendo programación aproximadamente desde hace 3 años. Muy interesado en el mundo de la tecnología desde temprana edad. Tengo varios proyectos en mente uno de ellos @cotizarg.
+Estoy aprendiendo programación aproximadamente desde hace 5 años. Muy interesado en el mundo de la tecnología desde temprana edad. Tengo varios proyectos en mente uno de ellos @cotizarg.
 
 * 🌍  I'm based in Argentina
 * 🖥️  See my portfolio at [Here](http://bautistaves.com.ar)
